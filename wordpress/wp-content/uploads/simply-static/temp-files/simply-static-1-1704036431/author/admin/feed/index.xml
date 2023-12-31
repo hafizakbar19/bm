@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; BM Commodities</title>
+	<atom:link href="https:// hafizakbar19.github.io/bm/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https:// hafizakbar19.github.io/bm</link>
+	<description>BM Commodities Your source for high-quality ingredients worldwide.</description>
+	<lastBuildDate>Thu, 21 Dec 2023 03:34:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https:// hafizakbar19.github.io/bm/wp-content/uploads/2023/12/logo-1.png</url>
+	<title>admin &#8211; BM Commodities</title>
+	<link>https:// hafizakbar19.github.io/bm</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https:// hafizakbar19.github.io/bm/2023/12/21/hello-world/</link>
+					<comments>https:// hafizakbar19.github.io/bm/2023/12/21/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2023 03:34:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https:// hafizakbar19.github.io/bm/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https:// hafizakbar19.github.io/bm/2023/12/21/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https:// hafizakbar19.github.io/bm/2022/02/22/hello-world-2/</link>
+					<comments>https:// hafizakbar19.github.io/bm/2022/02/22/hello-world-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 22 Feb 2022 11:57:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https:// hafizakbar19.github.io/bm/2022/02/22/hello-world-2/</guid>
+
+					<description><![CDATA[Welcome to Astra Starter Templates. This is your first post. Edit or delete it, then start blogging!]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href=\"https://websitedemos.net/\">Astra Starter Templates</a>. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https:// hafizakbar19.github.io/bm/2022/02/22/hello-world-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
